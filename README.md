@@ -32,4 +32,4 @@ To run this code, Copy the code in Visual Studio and run the program.
 
 # Conclusion:
 
-In this practical i learned about various types of datatypes available in c++.
+In this practical i discovered about various types of datatypes available in c++.
